@@ -88,3 +88,6 @@ for i in range(len(forecast)):
 ## **Conclusion**
 The **ValueInvestor** system successfully combines **traditional statistical models (ARMA, ARIMAX, SARIMA)** and **modern deep learning models (LSTM, Prophet)** to create an intelligent stock investment decision-making tool. By leveraging time-series forecasting, exogenous variables, and Bollinger Bands, this approach optimizes stock trading strategies to **maximize capital gains and minimize risks**. After comprehensive analysis, ARIMAX emerged as the most effective model, consistently delivering superior capital returns while minimizing losses. This outcome highlights the value of incorporating exogenous variables into forecasting models, as ARIMAX's enhanced predictive power made it the most reliable tool for optimizing investment decisions in emerging markets.
 
+
+I wrote a small article about this project that you can read [here](https://medium.com/@faridshahnavaz/building-an-intelligent-value-investing-system-for-emerging-markets-9bf4a1a5fc70).
+
